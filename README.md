@@ -1,0 +1,1 @@
+# fivem-disable-vehexit-animation
